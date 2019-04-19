@@ -33,7 +33,7 @@ dotplot(kegg, showCategory=15, title = "Pathogenic synonymous KEGG")
 ```
 ## 4. modify the kegg file
 Each row in kegg file concludes the pathway description and the enriched genes(entrez id)
-Use the python script 'kegg_snpid_amino_acid.py' to extract the amino acids of each entrez id. Next, run 'count_all_amino_acid_kegg.py' to caculate the numbers of amino acid of every pathyway.
+Use the python script `kegg_snpid_amino_acid.py` to extract the amino acids of each entrez id. Next, run `count_all_amino_acid_kegg.py` to caculate the numbers of amino acid of every pathyway.
 
   
 
